@@ -1,0 +1,25 @@
+
+
+.authMain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+}
+
+.authBg {
+    border-radius: 20px !important;
+    margin: 1rem;
+    max-width: 30rem;
+}
+
+
+
+
+
+.authFlip:hover{
+    transform: scale(1.04);
+    color: cyan;
+}

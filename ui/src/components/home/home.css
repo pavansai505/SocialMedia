@@ -1,0 +1,10 @@
+.sideMenuHome{
+    height: calc(100vh - 56px);
+    background-color: rgb(27, 26, 26);
+    font-size: 1.1rem;
+    
+}
+
+.sideMenuHome >*{
+    color: white;
+}
