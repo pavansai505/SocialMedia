@@ -17,7 +17,7 @@ const theme = createTheme({
 function App() {
   return (
     <BrowserRouter>
-      <GoogleOAuthProvider clientId="795216640706-b1dskadifrfquacgocsvmiustddfsg80.apps.googleusercontent.com"
+      <GoogleOAuthProvider clientId=""
       >
         <ThemeProvider theme={theme}>
           <Routes>
